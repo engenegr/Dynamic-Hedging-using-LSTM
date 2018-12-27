@@ -108,7 +108,7 @@ batch_size = 1
 print('batch size: {}'.format(batch_size))
 hidden_units = 15
 print('hidden units: {}'.format(hidden_units))
-S,F,s,f,basis = import_data("/Users/xinjing/Desktop/dynamic hedge/BP.xlsx")
+S,F,s,f,basis = import_data("./Data/BP.xlsx")
 print("BP")
 
 
